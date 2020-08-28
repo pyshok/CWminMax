@@ -1,0 +1,13 @@
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.exe
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.deps.json
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.runtimeconfig.json
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.runtimeconfig.dev.json
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.dll
+D:\CWminMax\bin\Debug\netcoreapp3.1\CWminMax.pdb
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.csprojAssemblyReference.cache
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.AssemblyInfoInputs.cache
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.AssemblyInfo.cs
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.csproj.CoreCompileInputs.cache
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.dll
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.pdb
+D:\CWminMax\obj\Debug\netcoreapp3.1\CWminMax.genruntimeconfig.cache
